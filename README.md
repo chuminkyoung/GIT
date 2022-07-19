@@ -1,5 +1,5 @@
 [Github에서 데이터 가져오기]</br>
-git clone <url>
+git clone [url]
 </br>
 git clone https://github.com/chuminkyoung/Front-End.git
   
