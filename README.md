@@ -1,7 +1,7 @@
 [Github에서 데이터 가져오기]</br>
 git clone [url]
 </br>
-git clone https://github.com/chuminkyoung/Front-End.git
+git clone https://github.com/[내 이름]/[저장소명].git
   
   </br></br>
   
