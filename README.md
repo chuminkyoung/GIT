@@ -98,7 +98,7 @@ git add [파일명]
 
 ### 7. git commit
 ```
-git commit -m "메모"
+git commit -m "커밋 메세지 입력"
 ```
 저장할 내용 메모
 
@@ -106,6 +106,12 @@ git commit -m "메모"
 
 ### 8. git push
 ```
-git push origin master(main)
+git push origin main
+```
+
+또는
+
+```
+git push origin master
 ```
 입력해줘서 저장 완료!
