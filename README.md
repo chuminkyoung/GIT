@@ -108,4 +108,4 @@ git commit -m "메모"
 ```
 git push origin master(main)
 ```
-을 입력해줘서 저장 완료!
+입력해줘서 저장 완료!
