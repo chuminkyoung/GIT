@@ -1,18 +1,18 @@
-# 📌 Github 프로젝트 생성
+## 📌 Github 프로젝트 생성
 ```
 git init
 git add [파일명]
 git commit
 ```
 
-# 📌 Github에서 데이터 가져오기
+## 📌 Github에서 데이터 가져오기
    ```
 git clone [url]
 git clone https://github.com/[내 이름]/[저장소명].git
   ```
   
   
-# 📌 Git Hub commit
+## 📌 Git Hub commit
 
 1. 파일 전체 저장
 
@@ -30,7 +30,7 @@ git commit -m "커밋 메세지 입력"
 git push origin marster(main)
 ```
 
-# 📌 git hub 새로운 파일 업로드 하는 방법
+## 📌 git hub 새로운 파일 업로드 하는 방법
 
 
 ### 1. git hub에서 올릴 파일 먼저 생성
