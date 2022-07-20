@@ -1,3 +1,10 @@
+# 📌 Github 프로젝트 생성
+```
+git init
+git add [파일명]
+git commit
+```
+
 # 📌 Github에서 데이터 가져오기
    ```
 git clone [url]
@@ -6,23 +13,35 @@ git clone https://github.com/[내 이름]/[저장소명].git
   
   
 # 📌 Git Hub commit
-   ```
+
+1. 파일 전체 저장
+
+```
 git add *
-git commit -m "커밋 메세지 입력"</br>
+git commit -m "커밋 메세지 입력"
 git push origin marster(main)
 ```
 
+2. 파일 일부 저장
+
+```
+git add [파일명]
+git commit -m "커밋 메세지 입력"
+git push origin marster(main)
+```
 
 # 📌 git hub 새로운 파일 업로드 하는 방법
 
 
 ### 1. git hub에서 올릴 파일 먼저 생성
 
+</br>
 
 ### 2. 내 컴퓨터에서 원격 저장소 가져오기
 
 저장할 파일에서 마우스 우클릭 + git bash here
 
+</br>
 
 ### 3. git 설치 후 초기 설정을 위해
 
@@ -35,6 +54,7 @@ git config --global user.email [이메일]
 
 을 차례로 입력한 후 Enter을 누른다.
 
+</br>
 
 ### 4. 앞서 생성한 저장소를 가져오기 위해 
 ```
@@ -50,11 +70,13 @@ git clone colone http://github.com/[이름]/[저장소 명].git
 
 (만약 안보이면 보기 -> 숨긴 항목 체크)
 
+</br>
 
 ### 5. 방금 생성한 로컬 저장소에 업로드할 파일을 넣어준다.
 
 git 이 있는 경로로 저장할 파일 전체 이동
 
+</br>
 
 ### 6. .git이 있는 파일에서 빈 공간 우클릭
 
@@ -72,6 +94,7 @@ git add [파일명]
 ```
 입력한 후 *git status* 로 다시 파일 상태를 확인해보면 파일명이 초록색으로 바뀐 모습을 볼 수 있다.
 
+</br>
 
 ### 7. git commit
 ```
@@ -79,6 +102,7 @@ git commit -m "메모"
 ```
 저장할 내용 메모
 
+</br>
 
 ### 8. git push
 ```
