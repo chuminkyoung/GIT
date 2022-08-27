@@ -58,7 +58,7 @@ git config --global user.email [이메일]
 
 ### 4. 앞서 생성한 저장소를 가져오기 위해 
 ```
-git clone colone http://github.com/[이름]/[저장소 명].git
+git clone http://github.com/[이름]/[저장소 명].git
 ```
  
 
