@@ -19,7 +19,7 @@ git clone https://github.com/[내 이름]/[저장소명].git
 ```
 git add *
 git commit -m "커밋 메세지 입력"
-git push origin marster(main)
+git push origin master(main)
 ```
 
 2. 파일 일부 저장
@@ -27,7 +27,7 @@ git push origin marster(main)
 ```
 git add [파일명]
 git commit -m "커밋 메세지 입력"
-git push origin marster(main)
+git push origin master(main)
 ```
 
 ## 📌 git hub 새로운 파일 업로드 하는 방법
