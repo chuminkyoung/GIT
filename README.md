@@ -1,3 +1,11 @@
+# 📌 저장 정리!
+```
+1. cd 경로
+2. git add .
+3. git commit -m ""
+4. git push
+```
+
 ## 📌 Github 프로젝트 생성
 ```
 git init
