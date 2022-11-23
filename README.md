@@ -6,7 +6,7 @@
 4. git push
 ```
 
-## 충돌시 
+## 📌 충돌시 
 ```
 git pull origin main
 git push origin main
